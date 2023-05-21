@@ -48,7 +48,7 @@ fbadmin: ar.maybach
 # Paginate
 paginate: 6
 paginate_path: 'page:num'
-words_per_minute: 50
+words_per_minute: 10
 
 extensions:
   mermaid_enable: true
