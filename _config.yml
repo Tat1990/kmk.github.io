@@ -67,7 +67,7 @@ comments_opts:
 # Build settings
 markdown: kramdown
 mathjax: true
-highlighter: rouge
+highlighter: orange
 compress_html:
   clippings: all
   comments: all
