@@ -3,7 +3,7 @@ title: The Minimum Viable Model
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kmk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
 logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
@@ -26,7 +26,8 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: 小川　樹 # add your name
 author-pic: me.jpg
-about-author: はり師、きゅう師、あん摩マッサージ指圧師。東洋医学のことなど綴っていきます。はりきゅうサロンくるみの樹 "https://www.shinq-compass.jp/salon/detail/36130"を経営。
+about-author: はり師、きゅう師、あん摩マッサージ指圧師。東洋医学のことなど綴っていきます。  
+はりきゅうサロンくるみの樹 https://www.shinq-compass.jp/salon/detail/36130 を経営。
 
 # Contact links
 email: info@kmk-acu.com # Add your Email address
@@ -67,7 +68,7 @@ comments_opts:
 # Build settings
 markdown: kramdown
 mathjax: true
-highlighter: orange
+highlighter: rouge
 compress_html:
   clippings: all
   comments: all
