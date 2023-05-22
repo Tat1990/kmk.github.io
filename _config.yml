@@ -26,12 +26,12 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: 小川　樹 # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: はり師、きゅう師、あん摩マッサージ指圧師。東洋医学のことなど綴っていきます。鍼灸院[はりきゅうサロンくるみの樹]を経営。
+about-author: はり師、きゅう師、あん摩マッサージ指圧師。東洋医学のことなど綴っていきます。はりきゅうサロンくるみの樹 "https://www.shinq-compass.jp/salon/detail/36130"を経営。
 
 # Contact links
 email: info@kmk-acu.com # Add your Email address
 phone: # Add your Phone number
-website: https://www.shinq-compass.jp/salon/detail/36130 # Add your website
+website: https://photo.kmk-acu.com # Add your website
 linkedin:  # Add your Linkedin handle
 github:  # Add your Github handle
 twitter: '@' # Add your Twitter handle
