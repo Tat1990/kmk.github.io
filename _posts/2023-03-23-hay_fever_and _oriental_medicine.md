@@ -2,6 +2,7 @@
 layout: post
 read_time: true
 show_date: true
+title:  花粉症と東洋医学
 date: 2023-03-23
 img: posts/kafun.jpg
 tags: [東洋医学, 春の養生, アレルギー, ツボ, 風邪]

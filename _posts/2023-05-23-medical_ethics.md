@@ -2,6 +2,7 @@
 layout: post
 read_time: true
 show_date: true
+title:  医の心
 date: 2023-05-23
 img: posts/inori.jpg
 tags: []

@@ -2,6 +2,7 @@
 layout: post
 read_time: true
 show_date: true
+title:  食と健康
 date: 2022-06-23
 img: posts/kanpo.jpg
 tags: [東洋医学, 気功, 風水, 食事 ]
