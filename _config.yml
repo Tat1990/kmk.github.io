@@ -1,0 +1,12 @@
+plugins:
+  - jekyll-redirect-from
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      permalink: "/:path/"
+      redirect_from: /:path/
+
+gems:
+  - jekyll-redirect-from
