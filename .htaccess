@@ -1,3 +1,2 @@
-RewriteEngine On
-RewriteCond %{http_host} ^kmk-acu.com
-RewriteRule ^(.*) https://www.kmk-acu.com/$1 [R=301,L]
+# Redirect
+Redirect permanent / https://www.kmk-acu.com/
